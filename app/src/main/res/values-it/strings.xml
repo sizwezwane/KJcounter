@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KJ counter</string>
+    <string name="CALCULATOR">Calcolatrice</string>
+    <string name="CALCULATORR">CALCOLATRICE</string>
+    <string name="DATE">Data:</string>
+    <string name="DIRECTION">Inserisci i kilojoule e seleziona una categoria.</string>
+    <string name="ENTER_KJ">Inserisci Kilojoules</string>
+    <string name="NEXT">IL PROSSIMO</string>
+    <string name="OVERVIEW">PANORAMICA</string>
+    <string name="PREVIOUS">PRECEDENTE</string>
+    <string name="SAVE_ENTRY">Salva voce</string>
+    <string name="TODAY">Oggi NKI</string>
+    <string name="exit">USCITA</string>
+    <string name="TEXTVIEW" translatable="false">VistaTesto</string>
+    <string name="AVERAGE">Media Giornaliera:</string>
+    <string name="GYM">Palestra</string>
+    <string name="JOGGING">Jogging</string>
+    <string name="OTe">Altro esercizio</string>
+</resources>

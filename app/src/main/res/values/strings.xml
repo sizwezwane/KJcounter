@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KJ counter</string>
+    <string name="TODAY">"Today\'s NKI: "</string>
+    <string name="AVERAGE">"Daily Average: "</string>
+    <string name="DATE">"Date: "</string>
+    <string name="DIRECTION">Please enter the kilojoules and select a category.</string>
+    <string name="ENTER_KJ">Enter Kilojoules</string>
+    <string name="SAVE_ENTRY">Save Entry</string>
+    <string name="CALCULATOR">Calculator</string>
+    <string name="TEXTVIEW" translatable="false">TextView</string>
+    <string name="NEXT">NEXT</string>
+    <string name="CALCULATORR">CALCULATOR</string>
+    <string name="PREVIOUS">PREVIOUS</string>
+    <string name="OVERVIEW">OVERVIEW</string>
+    <string name="GYM">Gym</string>
+    <string name="JOGGING">Jogging</string>
+    <string name="OTe">Other Exercise</string>
+    <string name="exit">EXIT</string>
+
+</resources>

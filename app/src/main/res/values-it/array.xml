@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string-array name="select">
+    <item>Prima colazione</item>
+    <item>Pranzo</item>
+    <item>Cena</item>
+    <item>Spuntino</item>
+    <item>Palestra</item>
+    <item>Jogging</item>
+    <item>Sport</item>
+    <item>Yoga</item>
+    <item>Altro cibo</item>
+    <item>Altro esercizio</item>
+</string-array></resources>
